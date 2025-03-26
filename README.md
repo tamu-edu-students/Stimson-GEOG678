@@ -3,7 +3,7 @@
 Week | Homework Link
 --- | ---
 Week 1 | [Homework/Week1](https://github.com/tamu-edu-students/Stimson-GEOG678/tree/e91e578fbc3463176e8a0ff6c4c89d8f411b0058/Homework/Week1)
-Week 2 | Homework/Week2
+Week 2 | [Homework/Week2](https://github.com/tamu-edu-students/Stimson-GEOG678/tree/e91e578fbc3463176e8a0ff6c4c89d8f411b0058/Homework/Week2)
 Week 3 | Homework/Week3
 Week 4 | Homework/Week4
 Week 5 | Homework/Week5
